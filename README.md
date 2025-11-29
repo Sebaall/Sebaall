@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/es-419/view/donkey-kong-diddy-kong-running-donkey-kong-country-returns-donkey-kong-country-returns-hd-gif-2859869197547092572 width="100%" alt="Banner Retro Programador" />
+  <img src="https://media.giphy.com/media/KsT4X8T89n73i/giphy.gif" width="100%" alt="Donkey Kong & Diddy" />
   
   <h1>¡Hola! Soy Sebastián León 👾</h1>
   <h3>Técnico Analista Programador</h3>
@@ -31,6 +31,6 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebaall&show_icons=true&theme=radical" alt="Estadísticas de Sebastián" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaall&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebaall&show_icons=true&theme=radical" height="180" alt="Estadísticas de Sebastián" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaall&layout=compact&theme=radical" height="180" alt="Lenguajes más usados" />
 </div>
