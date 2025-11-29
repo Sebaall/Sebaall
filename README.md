@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFyd2gzMTd2Nzh0ZWhoanZqdTJiaHJ5OHVpcmN5Mm5mYjRhNzF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuahUV0BEfitsFnUex/giphy.gif" width="100%" alt="Banner Retro Donkey Kong" />
+  <img src="https://media.giphy.com/media/MuahUV0BEfitsFnUex/giphy.gif" width="100%" alt="Banner Retro Donkey Kong" />
   
   <h1>¡Hola! Soy Sebastián León 👾</h1>
   <h3>Técnico Analista Programador</h3>
@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
@@ -31,6 +33,6 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebaall&show_icons=true&theme=radical" height="180" alt="Estadísticas de Sebastián" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaall&layout=compact&theme=radical" height="180" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebaall&show_icons=true&theme=radical" height="180" alt="Estadísticas de Sebastián" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebaall&layout=compact&theme=radical" height="180" alt="Lenguajes más usados" />
 </div>
