@@ -1,82 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:111111&height=180&section=header&text=SEBA%20%F0%9F%8E%AE%20RETRO%20DEV&fontColor=f2f2f2&fontSize=42&animation=fadeIn&fontAlignY=36" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="95" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STYLE-ARCADE-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/PIXEL_ART-8--BIT-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/NES-MODE-111?style=flat-square" />
-</p>
-
-# 👋 Hola, soy Seba
-
-Analista Programador en formación.  
-Aprendo mientras construyo proyectos reales.  
-Me gusta lo retro, la estética arcade y las interfaces oscuras simples.
-
-No me creo experto, solo alguien que va avanzando con calma y creando cosas útiles.
-
-<p align="center">
-  <img src="https://i.imgur.com/fgN4xYk.png" width="280"/>
-</p>
-
-# 🕹️ LEVEL SELECT — MIS PROYECTOS
-
-## LEVEL 1-1: ReciclaMap
-Mapa nacional de puntos de reciclaje.  
-GPS, filtros, markers retro y API propia en construcción.
-
-🔗 https://webapp-medioambiente.web.app
-
----
-
-## LEVEL 1-2: DiarioElLiderApp (.NET 9 MVC)
-Plataforma web con noticias, roles, dashboard y scraper.  
-Me ayuda a mejorar backend, SQL y arquitectura real.
-
----
-
-## LEVEL 1-3: Numerix / MathQuiz
-Apps simples de matemáticas para practicar lógica.  
-Pequeñas pruebas de diseño y funcionalidad.
-
-<p align="center">
-  <img src="https://i.imgur.com/Bx8U5YB.png" width="260"/>
-</p>
-
-# 🔧 STACK — A NIVEL REALISTA
-
-**Lenguajes / Front:** HTML, CSS, JS  
-**Backend:** .NET 9, Node  
-**Bases de Datos:** SQL Server, Firebase Firestore  
-**Mobile:** Kotlin, Flutter básico  
-**Otros:** Docker básico, scraping con Cheerio/Puppeteer
-
-<p align="center">
-  <img src="https://i.imgur.com/D1B6od5.png" width="260"/>
-</p>
-
-# 🎨 INSPIRACIÓN
-
-- Mario y Donkey Kong  
-- Pixel art  
-- Interfaces oscuras  
-- Estética arcade sin ruido
-
-# 🌐 PORTAFOLIO RETRO
-
-👉 https://sebaall.github.io/sebastianPortafolio/
-
-<p align="center">
-  <a href="https://sebaall.github.io/sebastianPortafolio/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-FF4747?style=for-the-badge&logo=nintendo&logoColor=white" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2J4Z3J0Z3J0Z3J0Z3J0Z3J0Z3J0Z3J0Z3J0Z3J0Z3J0/Zw3nm92v1M5cK/giphy.gif" width="100%" alt="Banner Retro Programador" />
+  
+  <h1>¡Hola! Soy Sebastián León 👾</h1>
+  <h3>Técnico Analista Programador</h3>
+  
+  <a href="TU_LINK_AL_PORTAFOLIO_AQUI">
+    <img src="https://img.shields.io/badge/VER_MI_PORTAFOLIO_WEB-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Portafolio" />
   </a>
-</p>
+</div>
 
-# 📫 CONTACTO
+---
 
-Siempre dispuesto a aprender, mejorar y colaborar.
+### 🚀 Sobre mí
+¡Bienvenido a mi laboratorio de código! Me especializo en crear soluciones eficientes y creativas.
+* 🔭 Actualmente trabajando en: **RecicleMap**
+* 🎮 Fanático de: **Super Nintendo & Retro Gaming**
+* 📫 Contáctame: **sebaleonpr@gmail.com**
+
+### 🛠️ Mis Habilidades (Tech Stack)
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
+<br/>
+
+### 📊 Mis Estadísticas de GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGithub&show_icons=true&theme=radical" alt="Estadísticas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioDeGithub&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
