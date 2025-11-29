@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/KsT4X8T89n73i/giphy.gif" width="100%" alt="Donkey Kong & Diddy" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFyd2gzMTd2Nzh0ZWhoanZqdTJiaHJ5OHVpcmN5Mm5mYjRhNzF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuahUV0BEfitsFnUex/giphy.gif" width="100%" alt="Banner Retro Donkey Kong" />
   
   <h1>¡Hola! Soy Sebastián León 👾</h1>
   <h3>Técnico Analista Programador</h3>
