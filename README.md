@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MuahUV0BEfitsFnUex/giphy.gif" width="100%" alt="Banner Retro Donkey Kong" />
   
   <h1>¡Hola! Soy Sebas 👾</h1>
-  <h3>Técnico Analista Programador</h3>
+  <h3>DEV</h3>
   
   <a href="https://sebaall.github.io/sebastianPortafolio/index.html" target="_blank">
     <img src="https://img.shields.io/badge/VER_MI_PORTAFOLIO_WEB-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Portafolio" />
