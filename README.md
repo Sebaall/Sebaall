@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/es-419/view/donkey-kong-diddy-kong-running-donkey-kong-country-returns-donkey-kong-country-returns-hd-gif-2859869197547092572" width="100%" alt="Banner Retro Programador" />
+  <img src="https://tenor.com/es-419/view/donkey-kong-diddy-kong-running-donkey-kong-country-returns-donkey-kong-country-returns-hd-gif-2859869197547092572 width="100%" alt="Banner Retro Programador" />
   
   <h1>¡Hola! Soy Sebastián León 👾</h1>
   <h3>Técnico Analista Programador</h3>
