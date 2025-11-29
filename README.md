@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/MuahUV0BEfitsFnUex/giphy.gif" width="100%" alt="Banner Retro Donkey Kong" />
   
-  <h1>¡Hola! Soy Sebastián León 👾</h1>
+  <h1>¡Hola! Soy Sebas 👾</h1>
   <h3>Técnico Analista Programador</h3>
   
   <a href="https://sebaall.github.io/sebastianPortafolio/index.html" target="_blank">
