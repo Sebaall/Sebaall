@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/badge/VER_MI_PORTAFOLIO_WEB-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Portafolio" />
   </a>
 </div>
+ <a href="https://sebaall.github.io/sebastianPortafolioMinimalist/#" target="_blank">
+    <img src="https://img.shields.io/badge/VER_MI_PORTAFOLIO_WEB_MINIMALISTA-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Portafolio" />
+  </a>
+</div>
 
 ---
 
