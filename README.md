@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/MuahUV0BEfitsFnUex/giphy.gif" width="100%" alt="Banner Retro Donkey Kong" />
+  <img src="https://media.giphy.com/media/MuahUV0BEfitsFnUex/giphy.gif" width="50%" alt="Banner Retro Donkey Kong" />
 
   <h1>¡Hola! Soy Sebas 👾</h1>
   <h3>Developer</h3>
@@ -15,7 +15,7 @@
 ---
 
 ## 🧩 Lenguajes
-Tecnologías que uso en mis proyectos y práctica diaria.
+Clasificados según mi nivel actual de uso en proyectos reales.
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-Intermedio-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -24,12 +24,13 @@ Tecnologías que uso en mis proyectos y práctica diaria.
   <img src="https://img.shields.io/badge/Dart-Básico-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 
-✔ Manejo sólido de lógica y resolución de problemas.
+✔ Buena lógica y resolución de problemas.  
+✔ Experiencia construyendo proyectos reales.
 
 ---
 
 ## 🌐 Web & Móvil
-Tecnologías que utilizo para desarrollo web y apps móviles.
+Tecnologías que utilizo según el tipo de proyecto.
 
 <div align="center">
   <img src="https://img.shields.io/badge/.NET%209%20%2F%20.NET%20Core-Intermedio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -44,7 +45,7 @@ Tecnologías que utilizo para desarrollo web y apps móviles.
 ---
 
 ## ⚙️ Backend & Bases de Datos
-Tecnologías que uso para crear APIs, autenticación y lógica de servidor.
+Tecnologías que uso para APIs, auth, lógica y almacenamiento.
 
 <div align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-Intermedio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -58,7 +59,7 @@ Tecnologías que uso para crear APIs, autenticación y lógica de servidor.
 ---
 
 ## 🛠️ Herramientas
-Herramientas que uso a diario para trabajar y organizarme.
+Softwares y plataformas con las que trabajo día a día.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-Intermedio-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -74,9 +75,9 @@ Herramientas que uso a diario para trabajar y organizarme.
 ---
 
 ## 🎯 Objetivo Profesional
-Seguir fortaleciendo mi camino en **JavaScript** (web y mobile), mejorar cada día en **backend con .NET**, y avanzar en desarrollo **multiplataforma**.
+Seguir creciendo en **JavaScript** (web y mobile), reforzar mi **backend con .NET**, y avanzar en desarrollo **multiplataforma**.
 
-Me gusta aprender haciendo, con proyectos reales y útiles.
+Me gusta aprender construyendo proyectos reales, simples y útiles.
 
 ---
 
