@@ -42,5 +42,5 @@ Seguir creciendo en **JavaScript**, fortalecer backend con **.NET**, y avanzar e
 
 ## 🦍 Fan de DK
 <div align="center">
-  <img src="https://media.giphy.com/media/2wh22HkU6rWqg/giphy.gif" width="120px" alt="DK 1981" />
+  <img src="https://media.gifs.nl/donkey-kong-gifs-w8R7XF.gif" width="120px" alt="DK 1981" />
 </div>
