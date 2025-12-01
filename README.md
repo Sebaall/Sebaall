@@ -18,6 +18,14 @@
 
 ---
 
+## 🚀 Proyectos en desarrollo
+- **ReciclaMap:** Mapa nacional de puntos de reciclaje (Firestore + API propia + GPS + buscador).  
+- **DiarioElLiderApp:** Plataforma web con .NET, SQL Server, Identity y administración completa.  
+- **Numerix:** App móvil de ejercicios matemáticos (Kotlin/Flutter).  
+- **Portafolios:** Arcade + Minimalista, ambos desarrollados por mí.
+
+---
+
 ## 🧩 Tecnologías
 **Lenguajes:** C# (Intermedio), JavaScript (Intermedio), SQL (Intermedio), Dart (Básico)  
 **Web & Móvil:** .NET Core, HTML, CSS, JS, Flutter, Kotlin (Android), React Native (Expo)  
@@ -26,13 +34,6 @@
 
 ---
 
-## 🚀 Proyectos en desarrollo
-- **ReciclaMap:** Mapa nacional de puntos de reciclaje (Firestore + API propia + GPS + buscador).  
-- **DiarioElLiderApp:** Plataforma web con .NET, SQL Server, Identity y administración completa.  
-- **Numerix:** App móvil de ejercicios matemáticos (Kotlin/Flutter).  
-- **Portafolios:** Arcade + Minimalista, ambos desarrollados por mí.
-
----
 
 ## 🎯 Objetivo Profesional
 Seguir creciendo en **JavaScript**, fortalecer backend con **.NET**, y avanzar en desarrollo **multiplataforma** (Flutter + React Native).
