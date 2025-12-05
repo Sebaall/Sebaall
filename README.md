@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/MuahUV0BEfitsFnUex/giphy.gif" width="40%" alt="Banner Retro Donkey Kong" />
 
   <h1>¡Hola! Soy Sebas 👾</h1>
-  <p>Developer</p>
 
   <p>
     <strong>📫 Correo:</strong> sebaleonpr@gmail.com  
@@ -16,13 +15,6 @@
   </p>
 </div>
 
----
-
-## 🚀 Proyectos en desarrollo
-- **ReciclaMap:** Mapa nacional de puntos de reciclaje (Firestore + API propia + GPS + buscador).  
-- **DiarioElLiderApp:** Plataforma web con .NET, SQL Server, Identity y administración completa.  
-- **Numerix:** App móvil de ejercicios matemáticos (Kotlin/Flutter).  
-- **Portafolios:** Arcade + Minimalista, ambos desarrollados por mí.
 
 ---
 
@@ -31,12 +23,6 @@
 **Web & Móvil:** .NET Core, HTML, CSS, JS, Flutter, Kotlin (Android), React Native (Expo)  
 **Backend & BD:** ASP.NET Core, Identity, SQL Server, Firestore, Firebase Auth  
 **Herramientas:** Git, GitHub, GitLab, Docker, Azure Data Studio, VS Code, Visual Studio, Trello  
-
----
-
-
-## 🎯 Objetivo Profesional
-Seguir creciendo en **JavaScript**, fortalecer backend con **.NET**, y avanzar en desarrollo **multiplataforma** (Flutter + React Native).
 
 ---
 
